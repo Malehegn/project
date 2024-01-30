@@ -78,5 +78,6 @@ $run_updateq=mysqli_query($connect,$updateq);
 	  
       </table>
 	  </center>
+	
 </body>
 </html>
